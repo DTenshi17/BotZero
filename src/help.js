@@ -1,12 +1,12 @@
 const help = (prefix) => {
 	return `
 「 *Zero two* 」
-
+Grupo del Bot: https://chat.whatsapp.com/Deqdduv784WJpZrCxNdoVg
 ◪ *INFORMACION*
   ❏ Comando: 「  ${prefix}  」
   ❏ Admi: Capi Kido
   ❏ Creador: Shan
-  ❏ Bot: Zero
+  ❏ Bot: Zero Two
 
 ◪ *PARA USAR EL BOT*
   ❏ Registrate con el comando ${prefix}daftar y tu nombre
@@ -77,7 +77,7 @@ Para usar estas funciones el bot necesita admin
 
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
-Grupo del Bot: https://chat.whatsapp.com/Deqdduv784WJpZrCxNdoVg
+
 `
 }
 
