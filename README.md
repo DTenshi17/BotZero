@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/XZVYAstOMLUDndgFPS/giphy.gif" alt="GIF" width="210" height="210"/>
 </p>
 <p align="center">
-<a href="#"><img title="ShanBot" src="https://img.shields.io/badge/ShanBot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
+<a href="#"><img title="Zero Two" src="https://img.shields.io/badge/ShanBot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/shanduy"><img title="Creador" src="https://img.shields.io/badge/Author-Shanduy-purple.svg?style=for-the-badge&logo=github"></a>
