@@ -1,7 +1,7 @@
 # Zero Two Bot Para Whatsapp by kido
 
 <p align="center">
-<img src="https://media.giphy.com/media/1dJWnCZBCE7gcFwLvk/giphy.gif" alt="GIF" width="210" height="210"/>
+<img src="https://media.giphy.com/media/XZVYAstOMLUDndgFPS/giphy.gif" alt="GIF" width="210" height="210"/>
 </p>
 <p align="center">
 <a href="#"><img title="ShanBot" src="https://img.shields.io/badge/ShanBot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
