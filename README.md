@@ -1,7 +1,7 @@
 # Zero Two Bot Para Whatsapp
 
 <p align="center">
-<img src="https://media.giphy.com/media/XZVYAstOMLUDndgFPS/giphy.gif" alt="GIF" width="210" height="210"/>
+<img src="https://data.whicdn.com/images/316036627/original.gif" alt="GIF" width="210" height="210"/>
 </p>
 
 # Zero Two
