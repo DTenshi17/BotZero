@@ -3,33 +3,13 @@
 <p align="center">
 <img src="https://media.giphy.com/media/XZVYAstOMLUDndgFPS/giphy.gif" alt="GIF" width="210" height="210"/>
 </p>
-<p align="center">
-<a href="#"><img title="Zero Two" src="https://img.shields.io/badge/ShanBot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/shanduy"><img title="Creador" src="https://img.shields.io/badge/Author-Shanduy-purple.svg?style=for-the-badge&logo=github"></a>
-</p>
- 
-<p align="center">
-Mis Redes Sociales Y Mi Whatsapp Para Resolver Tus Problemas
-</p>
 
-<p align='center'>
-   <a href="https://www.instagram.com/thepavos/"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/580b57fcd9996e24bc43c521.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.youtube.com/watch?v=2LQSzEbpJ-M"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://wa.me/593967689722"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/d9d97d48264770f85d35c208f279152c.png?raw=true"></a>
-</P>
-
-
-
-# ShanBot
+# Zero Two
 
 Pasos para instalar el bot via termux
 https://www.youtube.com/watch?v=2LQSzEbpJ-M
 
 ULTIMA VERSION 3.0
-
-18 de Mayo del 2021
 
 Funcion *welcome corregida
 
@@ -41,11 +21,6 @@ La funcion *ytmp3 y *play hacen el mismo trabajo
 
 *ytmp3 es una alternativa por si falla *play o esta en mantenimiento
 
-
-
-
-
-
 ## Como Actualizar Tu Bot
 Para eso vas a cerrar sesión de whatsapp wed en el numero de tu bot y en termux vas a apagar el bot con el comando
 
@@ -56,19 +31,12 @@ Para eso vas a cerrar sesión de whatsapp wed en el numero de tu bot y en termux
 Una vez hecho eso vas a colorcar en termux los siguiientes comandos
 
 ```bash
-> git clone https://github.com/shanduy/ShanBot
+> git clone https://github.com/KidoBot/BotZero
 > cd ShanBot
 > npm start
 ```
 
 Te dara un nuevo codigo y lo escaneas con tu numero del bot y ya estara la actualizacion de tu bot
-
-
-
-
-
-
-
 
 ## Primero Configurar termux
 Una vez descargado termux colocas el siguiente comando
@@ -90,7 +58,7 @@ Pasos para instalar el bot en termux
 > pkg install ffmpeg
 > pkg install nodejs
 > pkg install wget
-> git clone https://github.com/shanduy/ShanBot
+> git clone https://github.com/KidoBot/BotZero
 > cd ShanBot
 > bash install.sh
 > npm start
@@ -145,6 +113,6 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, solo realizara
 
 
 
-## by shanduy
+## by Zero Two
 
 
