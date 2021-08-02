@@ -28,7 +28,7 @@ Para eso vas a cerrar sesión de whatsapp wed en el numero de tu bot y en termux
 Una vez hecho eso vas a colorcar en termux los siguiientes comandos
 
 ```bash
-> git clone https://github.com/KidoBot/BotZero
+> git clone https://github.com/DTenshi17/BotZero
 > cd BotZero
 > npm start
 ```
