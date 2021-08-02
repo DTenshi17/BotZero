@@ -29,7 +29,7 @@ Una vez hecho eso vas a colorcar en termux los siguiientes comandos
 
 ```bash
 > git clone https://github.com/KidoBot/BotZero
-> cd ShanBot
+> cd BotZero
 > npm start
 ```
 
