@@ -1,4 +1,4 @@
-# Zero Two Bot Para Whatsapp
+# Zero Two Bot Whatsapp
 
 <p align="center">
 <img src="https://data.whicdn.com/images/316036627/original.gif" alt="GIF" width="210" height="210"/>
