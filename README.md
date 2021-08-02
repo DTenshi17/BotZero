@@ -6,9 +6,6 @@
 
 # Zero Two
 
-Pasos para instalar el bot via termux
-https://www.youtube.com/watch?v=2LQSzEbpJ-M
-
 ULTIMA VERSION 3.0
 
 Funcion *welcome corregida
