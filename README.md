@@ -1,4 +1,4 @@
-# Zero Two Bot Para Whatsapp by kido
+# Zero Two Bot Para Whatsapp by Dtenshi
 
 <p align="center">
 <img src="https://media.giphy.com/media/XZVYAstOMLUDndgFPS/giphy.gif" alt="GIF" width="210" height="210"/>
@@ -113,6 +113,6 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, solo realizara
 
 
 
-## by Zero Two
+## by DTenshi
 
 
