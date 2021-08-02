@@ -1,4 +1,4 @@
-# Zero Two Bot Para Whatsapp by Dtenshi
+# Zero Two Bot Para Whatsapp
 
 <p align="center">
 <img src="https://media.giphy.com/media/XZVYAstOMLUDndgFPS/giphy.gif" alt="GIF" width="210" height="210"/>
